@@ -1,1 +1,3 @@
 Esse é o meu controller
+
+Instrução para corrigir bug do RG de MG;
