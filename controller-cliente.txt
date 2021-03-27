@@ -3,7 +3,7 @@ Esse é o meu controller
 Novos textos deste arquivo;
 
 Novos textos deste arquivo;
-
+Instrução para corrigir bug do RG de MG;
 Novos textos deste arquivo;
 
 Novos textos deste arquivo;
